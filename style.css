@@ -34,6 +34,10 @@ body {
   justify-content: center;
   gap: 30px;
   text-transform: uppercase;
+  cursor: pointer;
+}
+#nav #items :hover{
+  color: blue;
 }
 #nav #logo {
   font-size: 1.4vw;
@@ -51,6 +55,7 @@ body {
   justify-content: center;
   gap: 20px;
   font-size: 15px;
+  cursor: pointer;
 }
 #body {
   width: 100%;
