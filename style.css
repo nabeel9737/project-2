@@ -160,4 +160,22 @@ body {
    /* text-align: center; */
    text-align: center;
 }
+#part2 h4{
+    border: solid;
+    border-radius: 20px;
+    background-color: rgb(251, 244, 244);
+    color: rgb(3, 2, 2);
+   font-weight: bold;
+   border: 2px solid #f1f1f1;
+   position: absolute;
+   top: 89%;
+   left: 63%;
+   right: 300px;
+   /* transform: translate(-30%, -30%); */
+   padding: 10px ;
+   /* text-align: center; */
+   /* text-align: center; */
+   justify-content: space-between;
+}
+
 
